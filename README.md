@@ -1,1 +1,1 @@
-# SannLua.github.io
+print("Sann")
